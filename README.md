@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noga Avraham
 - 👀 I’m interested in contributing to open source projects
 - 🌱 I’m currently learning fullstack and Java and have experience working on C/C++ and C# projects
-- 💞️ I’m looking to collaborate on any Java or C/C++ project
+- 💞️ I’m looking to collaborate on any Fullstack, Java or C/C++ project
 - 📫 How to reach me: Noga001@gmail.com
 
 <!---
