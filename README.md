@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noga Avraham
-- 👀 I’m interested in contributing to open source projects - testing or developing.
+- 👀 I’m interested in contributing to open source projects.
 - 🌱 I have working experience with C/C++, C# projects. 
 - 🌱 I have experiance programming with MERN stack and Java.
 - 💞️ I’m looking to collaborate on any Fullstack, Java or C/C++ project.
